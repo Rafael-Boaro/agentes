@@ -93,11 +93,6 @@ cp -r agent-auxiliar ~/.agents/agents/
 - **Segregacao de Responsabilidades:** Divisao clara entre o agente executor de governanca operacional (`git-agent`) e o mentor estrategico de arquitetura (`agent-auxiliar`), evitando sobreposicao de escopos e conflito de diretrizes.
 - **Politica Zero Emojis e Texto Objetivo:** Ambos os agentes operam sob diretriz de comunicacao concisa, focada em dados e rigor profissional.
 
-## Roadmap
-
-- [ ] Adicionar agente especialista em Pipelines de Dados e Engenharia de Analytics.
-- [ ] Implementar testes automatizados de sintaxe e validacao dos arquivos de instrucao via GitHub Actions.
-
 ## Autor
 
 Rafael Paolielo Boaro  
