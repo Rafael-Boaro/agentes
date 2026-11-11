@@ -215,10 +215,10 @@ cd <nome>
 ## Configuração
 Copie `.env.example` para `.env` e preencha as variáveis.
 
-## Decisões técnicas e Roadmap
-Por que determinadas escolhas foram feitas e quais os próximos passos reais.
+## Decisões técnicas
+Por que determinadas ferramentas ou padrões foram escolhidos.
 ~~~
-*Nota de qualidade: Documente fluxos de dados, arquiteturas e métricas sem exageros. Nenhum emoji.*
+*Nota de qualidade: Documente fluxos de dados, arquiteturas e métricas sem exageros. Nenhum emoji. Não inclua seção de Roadmap no README; apresente os próximos passos e sugestões de evolução diretamente ao Rafael nas respostas.*
 
 # 10. Padrão de .gitignore
 
