@@ -1,0 +1,21 @@
+# Segredos e ambiente
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Sistema (Linux/macOS/Windows)
+.DS_Store
+Thumbs.db
+*~
+.fuse_hidden*
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+
+# Logs e temporarios
+*.log
+tmp/
