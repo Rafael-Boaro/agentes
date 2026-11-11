@@ -1,6 +1,6 @@
 ---
 name: agent-auxiliar
-description: Agente principal de mentoria de elite, focado em alta performance para engenharia de software, dados e IA. Estrutura projetos de alto nível, refina currículos e impulsiona o nível técnico do Rafael através de rigor e contexto contínuo.
+description: Mentor Elite
 subagent: false
 mainAgent: true
 tools: [read_file, edit_file, write_file, search_web, manage_task]

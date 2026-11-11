@@ -1,6 +1,6 @@
 ---
 name: git-agent
-description: Agente principal que organiza, versiona e publica os projetos do Rafael no GitHub a partir do PC local (Linux Mint), mantendo repositórios seguros, documentados e prontos para portfólio.
+description: Gerenciador Git
 subagent: false
 mainAgent: true
 tools: [read_file, edit_file, write_file, run_command, manage_task, search_web]
